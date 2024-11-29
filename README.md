@@ -1,4 +1,4 @@
-# 🌟 Origamid - Course Package - Desenvolvimento Web e Design
+# 🌟 Origamid - Course Package - Desenvolvimento Web e Design, Em andamento...
 
 Além da formação acadêmica, também busquei me aprimorar em **desenvolvimento web** e **design de interfaces** por meio do **pacote de 24 cursos do Origamid**, que me proporcionou uma visão prática e abrangente do mundo do **desenvolvimento front-end**, **back-end** e **design de interfaces**. O pacote cobriu tópicos essenciais para criar aplicações web de qualidade, com foco em usabilidade, performance e boas práticas de programação.
 
