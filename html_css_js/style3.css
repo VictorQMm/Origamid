@@ -1,6 +1,9 @@
 h1{
     background: #000;
-    color: rgb(255, 255, 0);
+    color: rgba(50, 144, 221, 0.5);   /*a --> transparencia */
+    padding: 20px;
+    border: #000 4px solid;
+    margin: 30px
 }
 
 
@@ -8,4 +11,13 @@ a{
     background: seagreen;
     color: white;   
     font-size: 30px;
+}
+
+div{
+    background: #aaa;
+    width: 140px;           /* largura */
+    height: 80px;           /* altura */
+    padding: 20px;          /* margem interna*/
+    border: 10px solid #000;    /* borda */
+    margin: 30px;           /* margem externa */
 }

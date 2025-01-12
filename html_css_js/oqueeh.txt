@@ -22,3 +22,23 @@ Linguagem de script (programação).
 
 -ID
     Atributo HTML que adiciona um identificador único na tag. Esse identificar pode ser utilizado no CSS para selecionarmos o elemento: #nomeid
+
+-Box Model
+
+Content (conteúdo)
+    Define a largura inicial da caixa (salvo elementos de bloco).
+
+Padding (preenchimento)
+    Separa o conteúdo das bordas da caixa. É a margem interna.
+
+Border (borda)
+    Define bordas para a caixa.
+
+Margin (margem)
+    D efine a distância entre uma caixa e outra.
+
+Width (largura)
+    A largura total da caixa, por padrão é o somatório do conteúdo + padding (left/right) + border (left/right).
+
+Height (altura)
+    A altura total da caixa, por padrão é o somatório do conteúdo + padding (top/bottom) + border (top/bottom).
